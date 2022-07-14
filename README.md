@@ -1,1 +1,1 @@
-# Rosse_Djanrest this is a try
+# Rosse_Django_rest_framework: HOTEL BOUTIQUE ROSSE [INVENTARIOS]
